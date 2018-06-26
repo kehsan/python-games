@@ -1,2 +1,2 @@
 
-<B All the games should be loaded from codeskulptor.org and run from there as they need simplegui libraries. /B>
+<p All the games should be loaded on codeskulptor.org and run from there as they need simplegui libraries. /p>
